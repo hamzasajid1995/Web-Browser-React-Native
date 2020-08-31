@@ -1,5 +1,5 @@
 # Web-Browser-Places-React-native
-React native Project for combining google maps and google places for android
+React native Web browser for android and ios
 
 ## Getting Started
 
@@ -19,6 +19,7 @@ yarn run android
 * Go Back, Forward, reload, cancel loading
 * Bookmars
 * Prevent unwanted website redirections
+* clear Cookies and cache on app exit
 * Inject javascript
 * Hide adds
 
