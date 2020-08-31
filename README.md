@@ -23,4 +23,4 @@ yarn run android
 * Hide adds
 
 ## Demo
-<img src="https://github.com/hamzasajid1995/Google-Maps-Places-React-native/blob/master/Demo/demo.jpg?raw=true"  />
+<img src="https://github.com/hamzasajid1995/Web-Browser-React-Native/blob/master/Demo/demo.jpg?raw=true"  />
